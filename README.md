@@ -28,7 +28,7 @@ Installation
 
 There is no software in this repository; it contains only image files.  Currently, the only mechanism available for obtaining the whole set is to use `git clone`:
 ```sh
-git clone https://github.com/caltechlibrary/handprint-test-cases.git
+git clone https://github.com/caltechlibrary/htr-test-cases.git
 ```
  
 
@@ -47,13 +47,13 @@ None at this time.
 Getting help
 ------------
 
-If you find an issue, please submit it in [the GitHub issue tracker](https://github.com/caltechlibrary/handprint/issues) for this repository.
+If you find an issue, please submit it in [the GitHub issue tracker](https://github.com/caltechlibrary/htr-test-cases/issues) for this repository.
 
 
 Contributing
 ------------
 
-We would be happy to receive your help and participation with enhancing Handprint!  Please visit the [guidelines for contributing](CONTRIBUTING.md) for some tips on getting started.
+We would be happy to receive your help and participation with enhancing this collection of test images.  Please visit the [guidelines for contributing](CONTRIBUTING.md) for some tips on getting started.
 
 
 License
