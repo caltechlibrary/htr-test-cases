@@ -1,0 +1,10 @@
+Images of documents from the Caltech Archives
+=============================================
+
+The subdirectories here contain images from the [Caltech Archives](https://archives.caltech.edu).  They are pages from notebooks and personal letters from historically important scientists who have worked at the California Institute of Technology.  The origin of each image is described in associated XML files containing [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dces/) metadata in [OAI 2.0 DC](http://www.openarchives.org/OAI/openarchivesprotocol.html) format (based on the specification document dated 2015-01-08).  There is a separate `.xml` file for each image file.  An [XML schema is available elsewhere](http://www.openarchives.org/OAI/2.0/oai_dc.xsd) for the format used to store the Dublin Core metadata.
+
+The following is general information about the people whose notebooks are included:
+
+* [Donald Arthur Glaser](http://glaser.library.caltech.edu) (1926&ndash;2013) won the 1960 Nobel Prize in Physics for his invention of the bubble chamber.  He then catalyzed the growth of molecular biology by devising several machines for automating experiments with microbial cultures, and by cofounding the first biotechnology company, Cetus, in 1971. From the 1980s into the 2000s, he turned his attention to visual neuroscience.
+* [George Ellery Hale](https://hale.archives.caltech.edu) (1868&ndash;1938) was an influential astrophysicist and science administrator who helped create the California Institute of Technology.  He invented the spectroheliograph, and led the design, funding, and construction of the Kenwood Observatory in Chicago, Yerkes Observatory in Wisconsin, Mount Wilson Observatory near Pasadena, California, and Palomar Observatory near San Diego.
+* [Paul B. MacCready](http://maccready.library.caltech.edu) (1925–2007) was an aeronautical engineer who worked on diverse topics ranging from human-powered airplanes (the Gossamer Condor and Gossamer Albatross) and alternative energy solutions.
