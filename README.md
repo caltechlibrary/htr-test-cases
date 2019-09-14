@@ -1,4 +1,4 @@
-Test cases for HTR experiments
+Test cases for HTR experiments<img width="12%" align="right" src=".graphics/htr-test-cases-icon.svg">
 ==============================
 
 This repository contains test images for the Library's studies on handwritten text recognition.
@@ -78,6 +78,8 @@ Mike Hucka started this collection in 2019, with the help of others at the Calte
 
 Acknowledgments
 ---------------
+
+The [vector artwork](https://thenounproject.com/rose-alice-design/collection/document-paper-note-page-file-sheet/?i=2041114) of as a logo for Handprint was created by [Alice Design](https://thenounproject.com/rose-alice-design/) from the Noun Project.  It is licensed under the Creative Commons [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) license.  Mike Hucka slightly modified the original icon graphic file to change the color and reformat it for use as this repository's icon.
 
 This work was funded by the California Institute of Technology Library.
 
