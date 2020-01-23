@@ -28,7 +28,7 @@ The images are stored in subdirectories that give some indication of their origi
 Installation
 ------------
 
-There is no software in this repository; it contains only image files. You can download the entire set using various methods.  One method is to use GitHub's "Download ZIP" link,
+There is no software in this repository; it contains only image files, XML files, and text files. You can download the entire set using various methods.  One method is to use GitHub's "Download ZIP" link,
 
 <p align="center">
 https://github.com/caltechlibrary/htr-test-cases/archive/master.zip
@@ -43,7 +43,7 @@ git clone https://github.com/caltechlibrary/htr-test-cases.git
 Usage
 -----
 
-This is a collection of image files.  You can use them in whatever way you would use other image files.
+This is a collection of files.  You can use them in whatever way you would use other image files.
 
 
 Known issues and limitations
